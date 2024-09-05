@@ -1,4 +1,4 @@
-# Static Website on Azure
+# Deploying a Static Website on Azure
 
 ## Overview
 
